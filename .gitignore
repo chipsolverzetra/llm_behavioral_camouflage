@@ -1,0 +1,10 @@
+.env
+*.key
+.venv/
+venv/
+__pycache__/
+*.pyc
+data/camouflaged.jsonl
+data/monitor_judgements.jsonl
+.DS_Store
+results/gemini_sample_result.txt

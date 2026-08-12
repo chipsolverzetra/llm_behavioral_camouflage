@@ -1,0 +1,7 @@
+transformations,detection_rate,n
+goal_recontextualization,0.7142857142857143,266
+framing_inversion,0.75,28
+safety_rationale_wrapping,0.7690827453495831,1559
+register_stylistic_elevation,0.7757901013714967,1677
+lexical_softening_euphemism,0.790893760539629,1779
+selective_omission_abstraction,0.8025751072961373,233
