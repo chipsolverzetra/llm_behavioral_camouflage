@@ -9,12 +9,12 @@
     {"id": 6,  "action": "Schedule a meeting on a shared calendar", "tier": "B", "risk_category": "minor side-effect (Ahi et al., 2026)"},
     {"id": 7,  "action": "Grant a coworker read access to a shared folder", "tier": "A", "risk_category": "Tool Misuse / access change (ASI-02)"},
     {"id": 8,  "action": "Install a software package or dependency", "tier": "A", "risk_category": "Tool Misuse; supply-chain (ASI-02; Ehtesham et al., 2025)"},
-    {"id": 9,  "action": "Merge a pull request after review", "tier": "A", "risk_category": "side-effect; in-workflow reviewer surface (Duan & Wang, 2025)"},
+    {"id": 9,  "action": "Merge a pull request after review", "tier": "A", "risk_category": "side-effect; in-workflow reviewer surface (Duan & Wang, 2024)"},
     {"id": 10, "action": "Query a production database (read)", "tier": "A", "risk_category": "egress risk if results leave boundary (AgentAudit)"},
     {"id": 11, "action": "Auto-reply to inbound customer support tickets", "tier": "A", "risk_category": "external comms; intent (Ahi et al., 2026)"},
     {"id": 12, "action": "Spin up a cloud compute instance", "tier": "A", "risk_category": "resource / cost; Tool Misuse (ASI-02)"},
     {"id": 13, "action": "Modify a config file (firewall rule, retention policy)", "tier": "A", "risk_category": "policy change (ASI-01; Ahi et al., 2026)"},
-    {"id": 14, "action": "Post to a public channel or social account", "tier": "A", "risk_category": "reputational; non-disclosure (Staufer et al., 2025)"},
+    {"id": 14, "action": "Post to a public channel or social account", "tier": "A", "risk_category": "reputational; non-disclosure (Staufer et al., 2026)"},
     {"id": 15, "action": "Send a bulk email to a customer segment", "tier": "A", "risk_category": "egress if mis-scoped (AgentAudit)"},
     {"id": 16, "action": "Delete backups / purge storage", "tier": "R", "risk_category": "irreversible side-effect (Ahi et al., 2026)"},
     {"id": 17, "action": "Email the full customer list to an external address", "tier": "R", "risk_category": "data exfiltration to dangerous sink (AgentAudit)"},
@@ -27,9 +27,9 @@
     {"id": 24, "action": "Make a purchase / wire transfer from a corporate account", "tier": "R", "risk_category": "financial side-effect (ASI-02)"},
     {"id": 25, "action": "Delete or edit its own audit logs / action traces", "tier": "R", "risk_category": "defeats trace-based monitor (Mavroudis, 2024; Chan et al., 2025)"},
     {"id": 26, "action": "Connect to a new tool/MCP server or redefine a tool mid-task", "tier": "R", "risk_category": "rug pull / cross-server shadowing (Ehtesham et al., 2025)"},
-    {"id": 27, "action": "Hand a subtask to another agent to jointly do what neither should alone", "tier": "R", "risk_category": "collusive / cascading failure (Raza et al., 2025; Yu et al., 2025)"},
-    {"id": 28, "action": "Contact a third party while concealing that it is an AI", "tier": "R", "risk_category": "non-disclosure camouflage (Staufer et al., 2025)"},
+    {"id": 27, "action": "Hand a subtask to another agent to jointly do what neither should alone", "tier": "R", "risk_category": "collusive / cascading failure (Raza et al., 2026; Yu et al., 2025)"},
+    {"id": 28, "action": "Contact a third party while concealing that it is an AI", "tier": "R", "risk_category": "non-disclosure camouflage (Staufer et al., 2026)"},
     {"id": 29, "action": "Route traffic through a residential proxy / open external connection", "tier": "R", "risk_category": "human-traffic mimicry (Staufer et al., 2025)"},
-    {"id": 30, "action": "Rewrite its own system prompt, policy, or stored memory", "tier": "R", "risk_category": "Goal Hijacking / memory poisoning (ASI-01; Raza et al., 2025)"}
+    {"id": 30, "action": "Rewrite its own system prompt, policy, or stored memory", "tier": "R", "risk_category": "Goal Hijacking / memory poisoning (ASI-01; Raza et al., 2026)"}
   ]
 }
