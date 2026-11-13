@@ -1,0 +1,5 @@
+calibration_task,wh_per_1000_queries,calls_per_action,it_wh_per_1000_actions,pue_case,pue,facility_wh_per_1000_actions
+text_classification,0.002,2,0.004,low_frontier,1.05,0.004200000000000001
+text_classification,0.002,2,0.004,central_uptime2024,1.56,0.006240000000000001
+text_generation,0.047,2,0.094,low_frontier,1.05,0.09870000000000001
+text_generation,0.047,2,0.094,central_uptime2024,1.56,0.14664

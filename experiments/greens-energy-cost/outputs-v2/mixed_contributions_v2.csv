@@ -1,0 +1,11 @@
+monitor,archetype,share_of_R_A,extra_permits_per_1000_from_this_archetype,facility_kwh_per_1000_central,facility_kwh_per_1000_low,facility_kwh_per_1000_high
+Claude,Short administrative action,0.6666666666666666,86.66666666666666,37.349,2.3242916666666664,65.54946666666666
+Claude,Spin up or scale a service,0.125,16.25,210.08812500000005,13.074140625,368.71575
+Claude,Run a batch job,0.20833333333333334,27.083333333333336,1400.5875000000003,87.16093750000002,2458.105
+Claude,Run GPU inference (CPU proxy),0.0,0.0,0.0,0.0,0.0
+Claude,Idle or no workload change,0.0,0.0,0.0,0.0,0.0
+Gemini,Short administrative action,0.6666666666666666,144.0,62.056799999999996,3.8619000000000003,108.91296
+Gemini,Spin up or scale a service,0.125,27.0,349.06950000000006,21.7231875,612.6354
+Gemini,Run a batch job,0.20833333333333334,45.0,2327.1300000000006,144.82125000000002,4084.2360000000003
+Gemini,Run GPU inference (CPU proxy),0.0,0.0,0.0,0.0,0.0
+Gemini,Idle or no workload change,0.0,0.0,0.0,0.0,0.0

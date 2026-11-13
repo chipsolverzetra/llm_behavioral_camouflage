@@ -1,0 +1,7 @@
+monitor,extra_permits_per_1000,metric,allocation_basis,central,low,high
+Claude,130.0,it_kwh_per_permit,"R+A seed mix: Short 16/24, Spin up 3/24, Batch 5/24, GPU 0/24, Idle 0/24",1056.4260416666668,97.67559027777779,1854.083472222222
+Claude,130.0,facility_kwh_per_permit,"R+A seed mix: Short 16/24, Spin up 3/24, Batch 5/24, GPU 0/24, Idle 0/24",1648.0246250000005,102.55936979166668,2892.3702166666667
+Claude,130.0,cooling_kwh_per_permit,"R+A seed mix: Short 16/24, Spin up 3/24, Batch 5/24, GPU 0/24, Idle 0/24",591.5985833333335,4.883779513888893,1038.2867444444446
+Gemini,216.0,it_kwh_per_permit,"R+A seed mix: Short 16/24, Spin up 3/24, Batch 5/24, GPU 0/24, Idle 0/24",1755.2925000000005,162.29175,3080.631
+Gemini,216.0,facility_kwh_per_permit,"R+A seed mix: Short 16/24, Spin up 3/24, Batch 5/24, GPU 0/24, Idle 0/24",2738.2563000000005,170.4063375,4805.784360000001
+Gemini,216.0,cooling_kwh_per_permit,"R+A seed mix: Short 16/24, Spin up 3/24, Batch 5/24, GPU 0/24, Idle 0/24",982.9638000000002,8.114587500000008,1725.1533600000002
