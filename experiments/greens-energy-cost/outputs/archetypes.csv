@@ -1,0 +1,6 @@
+archetype,cpu_frac,duration_min
+Short administrative action,0.01,5
+Spin up or scale a service,0.05,30
+Run a batch job,0.1,60
+Run GPU inference (CPU proxy),0.1,15
+Idle or no workload change,0.0,0

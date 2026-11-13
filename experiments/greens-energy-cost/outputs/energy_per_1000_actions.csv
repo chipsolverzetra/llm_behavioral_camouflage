@@ -1,0 +1,31 @@
+monitor,extra_permits_per_1000,archetype,metric,central,low,high
+Claude,130.0,Short administrative action,it_kwh_per_permit,35.9125,3.3204166666666666,63.028333333333336
+Claude,130.0,Short administrative action,facility_kwh_per_permit,56.0235,3.4864375,98.3242
+Claude,130.0,Short administrative action,cooling_kwh_per_permit,20.111,0.16602083333333348,35.29586666666667
+Claude,130.0,Spin up or scale a service,it_kwh_per_permit,1077.3750000000002,99.6125,1890.85
+Claude,130.0,Spin up or scale a service,facility_kwh_per_permit,1680.7050000000004,104.59312500000001,2949.726
+Claude,130.0,Spin up or scale a service,cooling_kwh_per_permit,603.3300000000002,4.980625000000004,1058.8760000000002
+Claude,130.0,Run a batch job,it_kwh_per_permit,4309.500000000001,398.45,7563.4
+Claude,130.0,Run a batch job,facility_kwh_per_permit,6722.8200000000015,418.37250000000006,11798.904
+Claude,130.0,Run a batch job,cooling_kwh_per_permit,2413.3200000000006,19.922500000000017,4235.504000000001
+Claude,130.0,Run GPU inference (CPU proxy),it_kwh_per_permit,1077.3750000000002,99.6125,1890.85
+Claude,130.0,Run GPU inference (CPU proxy),facility_kwh_per_permit,1680.7050000000004,104.59312500000001,2949.726
+Claude,130.0,Run GPU inference (CPU proxy),cooling_kwh_per_permit,603.3300000000002,4.980625000000004,1058.8760000000002
+Claude,130.0,Idle or no workload change,it_kwh_per_permit,0.0,0.0,0.0
+Claude,130.0,Idle or no workload change,facility_kwh_per_permit,0.0,0.0,0.0
+Claude,130.0,Idle or no workload change,cooling_kwh_per_permit,0.0,0.0,0.0
+Gemini,216.0,Short administrative action,it_kwh_per_permit,59.67,5.517,104.724
+Gemini,216.0,Short administrative action,facility_kwh_per_permit,93.0852,5.7928500000000005,163.36944
+Gemini,216.0,Short administrative action,cooling_kwh_per_permit,33.4152,0.27585000000000026,58.64544
+Gemini,216.0,Spin up or scale a service,it_kwh_per_permit,1790.1000000000004,165.51,3141.72
+Gemini,216.0,Spin up or scale a service,facility_kwh_per_permit,2792.5560000000005,173.7855,4901.0832
+Gemini,216.0,Spin up or scale a service,cooling_kwh_per_permit,1002.4560000000002,8.275500000000008,1759.3632000000002
+Gemini,216.0,Run a batch job,it_kwh_per_permit,7160.4000000000015,662.04,12566.88
+Gemini,216.0,Run a batch job,facility_kwh_per_permit,11170.224000000002,695.142,19604.3328
+Gemini,216.0,Run a batch job,cooling_kwh_per_permit,4009.824000000001,33.10200000000003,7037.452800000001
+Gemini,216.0,Run GPU inference (CPU proxy),it_kwh_per_permit,1790.1000000000004,165.51,3141.72
+Gemini,216.0,Run GPU inference (CPU proxy),facility_kwh_per_permit,2792.5560000000005,173.7855,4901.0832
+Gemini,216.0,Run GPU inference (CPU proxy),cooling_kwh_per_permit,1002.4560000000002,8.275500000000008,1759.3632000000002
+Gemini,216.0,Idle or no workload change,it_kwh_per_permit,0.0,0.0,0.0
+Gemini,216.0,Idle or no workload change,facility_kwh_per_permit,0.0,0.0,0.0
+Gemini,216.0,Idle or no workload change,cooling_kwh_per_permit,0.0,0.0,0.0
